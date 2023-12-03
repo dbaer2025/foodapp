@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify48a41d48da4b4-staging-230707-authRole",
+      "UnauthRoleArn": "arn:aws:iam::681773937819:role/amplify-amplify48a41d48da4b4-staging-230707-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::681773937819:role/amplify-amplify48a41d48da4b4-staging-230707-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify48a41d48da4b4-staging-230707-deployment",
+      "UnauthRoleName": "amplify-amplify48a41d48da4b4-staging-230707-unauthRole",
+      "StackName": "amplify-amplify48a41d48da4b4-staging-230707",
+      "StackId": "arn:aws:cloudformation:us-east-1:681773937819:stack/amplify-amplify48a41d48da4b4-staging-230707/ae54c2a0-9230-11ee-b9a5-0a1facaa1847",
+      "AmplifyAppId": "d3w41usqpktmj0"
+    },
+    "categories": {
+      "auth": {
+        "foodapp86132302": {}
+      }
+    }
+  }
+}
